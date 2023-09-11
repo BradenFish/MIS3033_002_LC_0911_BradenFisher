@@ -67,6 +67,12 @@ bool CheckAge(Student s)
     return s.Age == 20;
 }
 
+bool CheckID(Student s)
+{
+    return s.Id == "s123";
+}
+
 Console.WriteLine(CheckAge(stu));
+Console.WriteLine(CheckID(stu));
 
 
