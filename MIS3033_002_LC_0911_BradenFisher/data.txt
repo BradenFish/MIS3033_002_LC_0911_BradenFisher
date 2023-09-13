@@ -1,7 +1,5 @@
-[
-  {
-    "Id": "s123",
-    "Name": "Braden Fisher",
-    "Age": 100
-  }
-]
+{
+  "Id": "S1024",
+  "Name": "Yevgeny M Primakov",
+  "Age": 18
+}
